@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=faizsiddiqui)](https://github.com/faizsiddiqui)
+- 🔭 DevOps Engineer
+
+<a href="https://github.com/faizsiddiqui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizsiddiqui&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/faizsiddiqui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsiddiqui&theme=gruvbox" />
+</a>
 
 <!--
 **faizsiddiqui/faizsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
