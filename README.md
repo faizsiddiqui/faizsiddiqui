@@ -1,25 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Faiz 👋
 
-- 🔭 DevOps Engineer
+[![Twitter Follow](https://img.shields.io/twitter/follow/mdfaizsiddiqui?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%faizsiddiqui&screen_name=faizsiddiqui)
+
+A DevOps Enthusiast 🔭🌩️
 
 <a href="https://github.com/faizsiddiqui">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizsiddiqui&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
+</br></br>
 <a href="https://github.com/faizsiddiqui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsiddiqui&theme=gruvbox" />
 </a>
-
-<!--
-**faizsiddiqui/faizsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
